@@ -1,0 +1,14 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+cicero = {git = "https://github.com/bast/cicero.git", ref = "master"}
+
+
+[dev-packages]
+
