@@ -9,6 +9,8 @@ CMake lesson](https://coderefinery.github.io/cmake/).
 [CMake Cookbook](https://www.packtpub.com/application-development/cmake-cookbook)
 offers a more in-depth discussion of many additional topics.
 
+Introductory slides are rendered [here](http://tinyurl.com/cmake-tutorial-MolSSI).
+
 ## [Example 1](./example-01)
 
 Introduce basic CMake commands to successfully compile a project.
