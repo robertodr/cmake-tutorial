@@ -14,6 +14,7 @@ Introductory slides are rendered [here](http://tinyurl.com/cmake-tutorial-MolSSI
 ## [Example 1](./example-01)
 
 Introduce basic CMake commands to successfully compile a project.
+We will also show how to work with dependencies and switch generators.
 
 Commands discussed:
 - `project`
@@ -23,17 +24,17 @@ Commands discussed:
 - `option`
 - `if`
 - `add_executable`
+- `find_package`
+- `target_link_libraries`
+- `target_sources`
 
 ## [Example 2](./example-02)
 
-We will discuss how to build a project with dependencies and how to produce
-libraries, in addition to executables.
+We will discuss how to structure a project and how to produce libraries, in
+addition to executables.
 
 Commands discussed:
-- `find_package`
 - `add_library`
-- `target_link_libraries`
-- `target_sources`
 
 ## [Example 3](./example-03)
 

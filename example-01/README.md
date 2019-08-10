@@ -1,4 +1,5 @@
 Introduce basic CMake commands to successfully compile a project.
+How to work with dependencies
 
 Commands discussed:
 - `project`
@@ -8,3 +9,6 @@ Commands discussed:
 - `option`
 - `if`
 - `add_executable`
+- `find_package`
+- `target_link_libraries`
+- `target_sources`
