@@ -15,7 +15,7 @@ class: center, middle, inverse
 .date[14 August 2019, Blacksburg]
 
 .footnote[[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) licensed.
-Browse slides at [http://tinyurl.com/cmake-tutorial@MolSSI](http://tinyurl.com/cmake-tutorial@MolSSI)]
+Browse slides at [http://tinyurl.com/cmake-tutorial-MolSSI](http://tinyurl.com/cmake-tutorial-MolSSI)]
 
 ???
 

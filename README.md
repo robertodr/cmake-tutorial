@@ -11,7 +11,7 @@ offers a more in-depth discussion of many additional topics.
 
 ## [Example 1](./example-01)
 
-Introduce basic CMake commands to compile successfully compile a project.
+Introduce basic CMake commands to successfully compile a project.
 
 Commands discussed:
 - `project`
