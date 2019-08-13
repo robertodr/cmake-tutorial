@@ -38,11 +38,17 @@ Commands discussed:
 
 ## [Example 3](./example-03)
 
+We will have a first look at the [Catch2](https://github.com/catchorg/Catch2)
+unit test framework and how to use it with
+[CTest](https://cmake.org/cmake/help/latest/manual/ctest.1.html).
+
+## [Example 4](./example-04)
+
 CMake is not just for C/C++, it can be used also for Fortran projects. In this
 example we will build a C++/Fortran project. We will also get acquainted with
 CTest, the testing framework that is part of the CMake suite.
 
-## [Example 4](./example-04)
+## [Example 5](./example-05)
 
 This final example will focus on unit testing and present some of the available
 C++ frameworks. We will focuse on [Catch2](https://github.com/catchorg/Catch2)

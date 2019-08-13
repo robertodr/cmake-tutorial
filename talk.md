@@ -68,5 +68,6 @@ Prerequisites:
 Exercises:
 1. Build a source file into an executable ([code](https://github.com/robertodr/cmake-tutorial/tree/master/example-01)).
 2. Build library and executable for a project with dependencies ([code](https://github.com/robertodr/cmake-tutorial/tree/master/example-02)). 
-3. Mixed-language projects and testing ([code](https://github.com/robertodr/cmake-tutorial/tree/master/example-03)).
-4. More on unit testing with [Catch2](https://github.com/catchorg/Catch2) ([code](https://github.com/robertodr/cmake-tutorial/tree/master/example-04)).
+3. Unit testing with [Catch2](https://github.com/catchorg/Catch2) ([code](https://github.com/robertodr/cmake-tutorial/tree/master/example-03)).
+3. Mixed-language projects and testing ([code](https://github.com/robertodr/cmake-tutorial/tree/master/example-04)).
+4. More on unit testing with [Catch2](https://github.com/catchorg/Catch2) ([code](https://github.com/robertodr/cmake-tutorial/tree/master/example-05)).
