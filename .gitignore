@@ -31,5 +31,8 @@
 *.out
 *.app
 
+# Build directories
+*build*/
+
 .direnv
 Pipfile.lock

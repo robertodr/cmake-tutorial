@@ -8,6 +8,10 @@ with import <nixpkgs> {
 stdenv.mkDerivation {
   name = "cmake-tutorial";
   buildInputs = [
+    cmake
+    gcc
+    gfortran
+    ninja
     pipenv
     python3Packages.pandas
     python3Packages.seaborn
